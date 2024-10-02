@@ -1,1 +1,3 @@
 # projectDelayEstimate
+As the number of projects and bugs continues to accumulate, I predict that if the company does not deal with development issues quickly and continues to accept new projects, it will cause serious delays in all projects.
+Therefore, I conducted a time series analysis and told the company that at a certain point in time, the project backlog would lead to development delays and serious overtime based on past experience.
